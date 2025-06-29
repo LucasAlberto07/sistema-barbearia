@@ -71,10 +71,13 @@ INSERT INTO barbeiro (nome, usuario, senha) VALUES
 
 ## 🚀 Instalação
 
-### Requisitos
-- Servidor web (XAMPP, WAMP ou similar)
-- PHP 7.4+
-- MySQL 5.7+
+## 📋 Requisitos do Sistema
+
+| Requisito | Versão | Ícone |
+|-----------|--------|-------|
+| Servidor web | XAMPP/WAMP/LAMP | <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white" width="80"> |
+| PHP | 7.4+ | <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="80"> |
+| MySQL | 5.7+ | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="80"> |
 ## 📸 Demonstração do Sistema
 
 Adicione abaixo screenshots das principais telas do seu sistema:

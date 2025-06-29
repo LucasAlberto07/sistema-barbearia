@@ -80,24 +80,35 @@ INSERT INTO barbeiro (nome, usuario, senha) VALUES
 | MySQL | 5.7+ | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="80"> |
 ## 📸 Demonstração do Sistema
 
-Adicione abaixo screenshots das principais telas do seu sistema:
+
+## 📸 Telas do Sistema
 
 ### Tela de Login
-![Loguin](https://github.com/user-attachments/assets/e7c5eb5d-adc6-4ce2-a907-a2be69167c8c)
- 
-*(Adicione a imagem do login.php aqui)*
+![Loguin](https://github.com/user-attachments/assets/e7c5eb5d-adc6-4ce2-a907-a2be69167c8c)  
+🔒 **Função:** Permite que o barbeiro ou administrador acesse o sistema usando login e senha. Após a autenticação, o usuário é direcionado ao painel de agendamentos.
+
+---
 
 ### Painel de Agendamentos
-![agendamento pronto](https://github.com/user-attachments/assets/c20bb481-8de1-4c34-b71f-da9467ffec01)
-*(Adicione a imagem da agenda completa aqui)*
+![agendamento pronto](https://github.com/user-attachments/assets/c20bb481-8de1-4c34-b71f-da9467ffec01)  
+📋 **Função:** Exibe a lista de todos os agendamentos cadastrados, com nome do cliente, data, horário e opções para editar ou excluir. Acesso restrito a usuários logados.
 
-### Agendamentos feitos
-![agendamentos a](https://github.com/user-attachments/assets/dfa3b9c3-ccb6-4083-af50-67174a2164ec)
+---
+
+### Agendamentos Feitos
+![agendamentos a](https://github.com/user-attachments/assets/dfa3b9c3-ccb6-4083-af50-67174a2164ec)  
+🗓️ **Função:** Mostra os agendamentos realizados de forma organizada por data e horário. Facilita a visualização de horários já reservados.
+
+---
 
 ### Confirmação de Agendamento
-![agendamento realizado a](https://github.com/user-attachments/assets/84a59e22-d2e4-49d4-b310-ef75db73e893)
-*(Adicione a imagem da tela de confirmação aqui)*
-### Passo a passo
+![agendamento realizado a](https://github.com/user-attachments/assets/84a59e22-d2e4-49d4-b310-ef75db73e893)  
+✅ **Função:** Exibe uma mensagem de sucesso confirmando que o agendamento foi realizado corretamente. Serve como retorno visual para o usuário.
+
+---
+
+## 🛠️ Passo a Passo
+
 1. Clone o repositório:
 ```bash
 git clone https://github.com/LucasAlberto07/sistema-barbearia.git

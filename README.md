@@ -61,13 +61,13 @@ INSERT INTO barbeiro (nome, usuario, senha) VALUES
 ```
 ## 🛠️ Tecnologias
 
-| Tecnologia | Finalidade |
-|------------|------------|
-| PHP 7.4+ | Lógica do sistema |
-| MySQL 5.7+ | Armazenamento de dados |
-| Bootstrap 5 | Interface do usuário |
-| Font Awesome | Ícones profissionais |
-| Git | Controle de versão |
+| Tecnologia | Finalidade | Ícone |
+|------------|------------|-------|
+| PHP 7.4+ | Lógica do sistema | <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" width="80"> |
+| MySQL 5.7+ | Armazenamento de dados | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" width="80"> |
+| Bootstrap 5 | Interface do usuário | <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" width="80"> |
+| Font Awesome | Ícones profissionais | <img src="https://img.shields.io/badge/Font_Awesome-528DD7?logo=fontawesome&logoColor=white" width="80"> |
+| Git | Controle de versão | <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" width="80"> |
 
 ## 🚀 Instalação
 

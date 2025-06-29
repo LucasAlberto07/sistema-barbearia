@@ -80,19 +80,19 @@ INSERT INTO barbeiro (nome, usuario, senha) VALUES
 Adicione abaixo screenshots das principais telas do seu sistema:
 
 ### Tela de Login
-![Tela de Login](docs/screenshots/login.png)  
+![Loguin](https://github.com/user-attachments/assets/e7c5eb5d-adc6-4ce2-a907-a2be69167c8c)
+ 
 *(Adicione a imagem do login.php aqui)*
 
 ### Painel de Agendamentos
-![Lista de Agendamentos](docs/screenshots/agendamentos.png)  
+![agendamento pronto](https://github.com/user-attachments/assets/c20bb481-8de1-4c34-b71f-da9467ffec01)
 *(Adicione a imagem da agenda completa aqui)*
 
-### Novo Agendamento
-![Formulário de Agendamento](docs/screenshots/novo-agendamento.png)  
-*(Adicione a imagem do formulário de agendamento aqui)*
+### Agendamentos feitos
+![agendamentos a](https://github.com/user-attachments/assets/dfa3b9c3-ccb6-4083-af50-67174a2164ec)
 
 ### Confirmação de Agendamento
-![Mensagem de Confirmação](docs/screenshots/confirmacao.png)  
+![agendamento realizado a](https://github.com/user-attachments/assets/84a59e22-d2e4-49d4-b310-ef75db73e893)
 *(Adicione a imagem da tela de confirmação aqui)*
 ### Passo a passo
 1. Clone o repositório:

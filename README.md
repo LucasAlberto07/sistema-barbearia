@@ -75,7 +75,25 @@ INSERT INTO barbeiro (nome, usuario, senha) VALUES
 - Servidor web (XAMPP, WAMP ou similar)
 - PHP 7.4+
 - MySQL 5.7+
+## 📸 Demonstração do Sistema
 
+Adicione abaixo screenshots das principais telas do seu sistema:
+
+### Tela de Login
+![Tela de Login](docs/screenshots/login.png)  
+*(Adicione a imagem do login.php aqui)*
+
+### Painel de Agendamentos
+![Lista de Agendamentos](docs/screenshots/agendamentos.png)  
+*(Adicione a imagem da agenda completa aqui)*
+
+### Novo Agendamento
+![Formulário de Agendamento](docs/screenshots/novo-agendamento.png)  
+*(Adicione a imagem do formulário de agendamento aqui)*
+
+### Confirmação de Agendamento
+![Mensagem de Confirmação](docs/screenshots/confirmacao.png)  
+*(Adicione a imagem da tela de confirmação aqui)*
 ### Passo a passo
 1. Clone o repositório:
 ```bash

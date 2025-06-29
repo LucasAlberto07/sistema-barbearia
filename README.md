@@ -26,6 +26,39 @@ Sistema completo para gerenciamento de agendamentos em barbearias, desenvolvido 
 - **Proteção contra SQL Injection** usando prepared statements
 - **Sessões seguras** para controle de acesso
 
+## 🛠️ Configuração do Banco de Dados
+
+Execute no MySQL:
+
+```sql
+CREATE DATABASE barbearia;
+USE barbearia;
+
+-- -- Criação do banco barbearia
+CREATE DATABASE IF NOT EXISTS barbearia;
+USE barbearia;
+
+-- Tabela de barbeiros
+CREATE TABLE barbeiro (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    usuario VARCHAR(50) NOT NULL UNIQUE,
+    senha VARCHAR(32) NOT NULL
+);
+
+-- Tabela de agendamentos
+CREATE TABLE agendamentos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome_cliente VARCHAR(100) NOT NULL,
+    data_agendamento DATE NOT NULL,
+    hora_agendamento TIME NOT NULL,
+    data_cadastro TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+-- Usuário padrão (senha: 123456)
+INSERT INTO barbeiro (nome, usuario, senha) VALUES 
+('Administrador', 'admin', MD5('123456'));
+```
 ## 🛠️ Tecnologias
 
 | Tecnologia | Finalidade |

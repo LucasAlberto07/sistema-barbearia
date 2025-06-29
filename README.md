@@ -13,8 +13,8 @@ Sistema completo para gerenciamento de agendamentos em barbearias, desenvolvido 
 - [Instalação](#-instalação)
 - [Estrutura do Projeto](#-estrutura-do-projeto)
 - [Telas do Sistema](#-telas-do-sistema)
-- [Como Contribuir](#-como-contribuir)
-- [Licença](#-licença)
+
+
 
 ## ✨ Funcionalidades
 
